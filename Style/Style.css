@@ -1,0 +1,16 @@
+.parent {
+    height: 50vh
+}
+
+.parent button {
+    border: 1px  solid;
+    color: white;
+    background-color: black;
+    transition: all 0.5s;
+}
+
+.parent button:hover {
+    border-color:black ;
+    background-color: white;
+    color: black;
+}
